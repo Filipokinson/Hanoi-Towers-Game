@@ -1,6 +1,6 @@
 name: hanoi_game
 description: A Tower of Hanoi game in Flutter with Flame engine
-publish_to: 'none' # Remove this line if you want to publish to pub.dev
+publish_to: 'none'
 
 version: 1.0.0+1
 
